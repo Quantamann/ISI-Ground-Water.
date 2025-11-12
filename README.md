@@ -12,7 +12,7 @@ Time-Series Optimized: Wide-format transformation for ML applications
 
 Raw Data (State-wise CSVs)
 
-     ↓
+   ↓
 
 File Validation Layer
 

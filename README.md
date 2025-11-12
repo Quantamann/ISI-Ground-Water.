@@ -38,9 +38,13 @@ Inter-State Merging (Horizontal)
 ## Data Transformation Workflow
 
 File Validation: Checks for empty files, missing columns, and placeholder data
+
 Long-to-Wide Pivot: Transforms station-wise observations into time-series format
+
 Hierarchical Indexing: Creates unique identifiers (State_District_Station)
+
 Vertical Consolidation: Combines daily files within each state
+
 Horizontal Merging: Outer join across all states preserving complete temporal coverage
 
 ## Installation

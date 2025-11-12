@@ -1,5 +1,5 @@
 Groundwater Data Pipeline
-##Overview
+## Overview
 This project develops an automated Extract-Load-Transform (ELT) that processes groundwater level measurements from over 24,000 monitoring wells across 23 Indian states, transforming fragmented state-wise data into a unified national dataset suitable for machine learning and agricultural forecasting.
 
 Key Features:
@@ -22,6 +22,7 @@ Inter-State Merging (Horizontal)
     ↓
 MinIO Data Lake Storage
 
+
 ## Data Transformation Workflow
 
 File Validation: Checks for empty files, missing columns, and placeholder data
@@ -36,8 +37,7 @@ Prerequisites
 Python 3.8+
 pandas >= 1.3.0
 
-##Setup
-# Clone the repository
+## Setup
 git clone https://github.com/Quantamann/ISI-Ground-Water.git
 cd ISI-Ground-Water
 # Install dependencies

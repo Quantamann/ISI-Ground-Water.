@@ -55,6 +55,7 @@ pandas >= 1.3.0
 
 ## Setup
 git clone https://github.com/Quantamann/ISI-Ground-Water.git
+
 cd ISI-Ground-Water
 ## Install dependencies
 pip install pandas
@@ -62,4 +63,5 @@ pip install pandas
 ## References
 
 Central Ground Water Board. (2024). National Aquifer Mapping and Management Programme. http://cgwb.gov.in
+
 India Water Resources Information System. (2024). India WRIS WebGIS Portal. https://indiawris.gov.in

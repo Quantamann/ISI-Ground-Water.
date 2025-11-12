@@ -1,4 +1,4 @@
-Groundwater Data Pipeline
+# Groundwater Data Pipeline
 ## Overview
 This project develops an automated Extract-Load-Transform (ELT) that processes groundwater level measurements from over 24,000 monitoring wells across 23 Indian states, transforming fragmented state-wise data into a unified national dataset suitable for machine learning and agricultural forecasting.
 
@@ -40,10 +40,10 @@ pandas >= 1.3.0
 ## Setup
 git clone https://github.com/Quantamann/ISI-Ground-Water.git
 cd ISI-Ground-Water
-# Install dependencies
+## Install dependencies
 pip install pandas
 
-##References
+## References
 
 Central Ground Water Board. (2024). National Aquifer Mapping and Management Programme. http://cgwb.gov.in
 India Water Resources Information System. (2024). India WRIS WebGIS Portal. https://indiawris.gov.in

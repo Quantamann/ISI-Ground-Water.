@@ -3,11 +3,16 @@
 This project develops an automated Extract-Load-Transform (ELT) that processes groundwater level measurements from over 24,000 monitoring wells across 23 Indian states, transforming fragmented state-wise data into a unified national dataset suitable for machine learning and agricultural forecasting.
 
 Key Features:
-Comprehensive Coverage: Processes data from 24,143 monitoring stations across 23 states
-Historical Depth: Consolidates 30 years of observations (1994-2024)
-Quality Assurance: Automated validation filters out ~95% of unusable files
-Scalable Architecture: Modular design enables incremental monthly updates
-Time-Series Optimized: Wide-format transformation for ML applications
+
+a)Comprehensive Coverage: Processes data from 24,143 monitoring stations across 23 states
+
+b)Historical Depth: Consolidates 30 years of observations (1994-2024)
+
+c)Quality Assurance: Automated validation filters out ~95% of unusable files
+
+d)Scalable Architecture: Modular design enables incremental monthly updates
+
+e)Time-Series Optimized: Wide-format transformation for ML applications
 (ELT)
 
 Raw Data (State-wise CSVs)

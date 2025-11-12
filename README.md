@@ -11,16 +11,23 @@ Time-Series Optimized: Wide-format transformation for ML applications
 (ELT)
 
 Raw Data (State-wise CSVs)
-    ↓
+
+     ↓
+
 File Validation Layer
-    ↓
+
+   ↓
+
 Individual File Processing
-    ↓
+
+   ↓
+
 Intra-State Consolidation (Vertical Stack)
-    ↓
+
+   ↓
+
 Inter-State Merging (Horizontal)
-    ↓
-MinIO Data Lake Storage
+
 
 
 ## Data Transformation Workflow
